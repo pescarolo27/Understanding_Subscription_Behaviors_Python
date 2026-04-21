@@ -6,3 +6,5 @@
 Your analysis will provide them with insights into which customers are renewing their products and the reasons behind their renewals. The company can leverage these insights to make informed decisions to increase renewal rates and improve customer loyalty, helping them stay competitive and ensure long-term growth.
 
 **The Data:** The company has provided three datasets pertaining to client details, subscription records, & economic indicators.
+
+This project was done in October, 2025.
